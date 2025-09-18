@@ -1,19 +1,22 @@
 def main():
     while True:
         print("選択してください：")
-        print("1: 選択肢1")
-        print("2: 選択肢2")
-        print("3: 選択肢3")
+        print("1: たか@59期")
+        print("2: うっちー@58期2回目")
+        print("3: トンヌラ@55期")
+        print("4: りょうぱん@56期")
         print("q: 終了")
 
         choice = input("> ")
 
         if choice == "1":
-            print("選択肢1が選ばれました。")
+            print("たか@59期が選ばれました。")
         elif choice == "2":
-            print("選択肢2が選ばれました。")
+            print("うっちー@58期2回目が選ばれました。")
         elif choice == "3":
-            print("選択肢3が選ばれました。")
+            print("トンヌラ@55期が選ばれました。")
+        elif choice == "4":
+            print("りょうぱん＠56期が選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
