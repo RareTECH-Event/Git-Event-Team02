@@ -4,6 +4,7 @@ def main():
         print("1: たか@59期")
         print("2: うっちー@58期2回目")
         print("3: トンヌラ@55期")
+        print("4: りょうぱん@56期")
         print("q: 終了")
 
         choice = input("> ")
@@ -14,6 +15,8 @@ def main():
             print("うっちー@58期2回目が選ばれました。")
         elif choice == "3":
             print("トンヌラ@55期が選ばれました。")
+        elif choice == "4":
+            print("りょうぱん＠56期が選ばれました。")
         elif choice == "q":
             print("プログラムを終了します。")
             break
