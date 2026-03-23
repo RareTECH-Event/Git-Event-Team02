@@ -12,7 +12,7 @@ def main():
         if choice == "1":
             print("ぴょんす")
         elif choice == "2":
-            print("選択肢2が選ばれました。")
+            print("もず")
         elif choice == "3":
             print("選択肢3が選ばれました。")
         elif choice == "4":
