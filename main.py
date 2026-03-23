@@ -10,7 +10,7 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("選択肢1が選ばれました。")
+            print("ぴょんす")
         elif choice == "2":
             print("選択肢2が選ばれました。")
         elif choice == "3":
