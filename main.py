@@ -1,6 +1,8 @@
 def main():
     while True:
         print("選択してください：")
+        print("undertree@62期")
+        print("2: 選択肢2")
         print("1: 選択肢1")
         print("2: えり＠62期")
         print("3: 選択肢3")
@@ -9,7 +11,7 @@ def main():
         choice = input("> ")
 
         if choice == "1":
-            print("選択肢1が選ばれました。")
+            print("undertree@62期です。")
         elif choice == "2":
             print("えりです")
         elif choice == "3":
