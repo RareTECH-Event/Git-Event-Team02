@@ -3,7 +3,7 @@ def main():
         print("選択してください：")
         print("1: ぴょんす")
         print("2: Shinya")
-        print("3: 選択肢3")
+        print("3: tagpyon")
         print("4: 選択肢4")
         print("q: 終了")
 
@@ -14,7 +14,7 @@ def main():
         elif choice == "2":
             print("Shinyaが選ばれました。")
         elif choice == "3":
-            print("選択肢3が選ばれました。")
+            print("tagpyonが選ばれました。")
         elif choice == "4":
             print("選択肢4が選ばれました。")
         elif choice == "q":
